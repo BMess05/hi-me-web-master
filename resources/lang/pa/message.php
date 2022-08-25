@@ -1,0 +1,25 @@
+<?php
+    return [
+        "invalid_credential"    =>  "ਗਲਤ ਪ੍ਰਮਾਣ ਪੱਤਰ. ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+        "update_availability"    =>  "ਉਪਲਬਧਤਾ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤੀ ਗਈ.",
+        "update_availability_failed"    =>  "ਉਪਲਬਧਤਾ ਨੂੰ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ. ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+        "lang_update" => "ਭਾਸ਼ਾ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤੀ ਗਈ.",
+        "lang_update_failed" => "ਭਾਸ਼ਾ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ. ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+        "no_data_found" => "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ.",
+        "image_upload"  => "ਚਿੱਤਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਲੋਡ ਕੀਤਾ ਗਿਆ.",
+        "image_upload_failed"  => "ਚਿੱਤਰ ਅਪਲੋਡ ਅਸਫਲ.",
+        "profile_update" => "ਪਰੋਫਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਇਆ.",
+        "error" => "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+        "profile_fetch" => "ਪ੍ਰੋਫਾਈਲ ਡਾਟਾ ਸਫਲਤਾਪੂਰਵਕ ਲਿਆਇਆ ਗਿਆ.",
+        "already_sent" => "ਪਹਿਲਾਂ ਹੀ ਉਪਭੋਗਤਾ ਨੂੰ ਬੇਨਤੀ ਭੇਜੋ.",
+        "rqst_send" => "ਬੇਨਤੀ ਸਫਲਤਾਪੂਰਵਕ ਭੇਜੋ.",
+        "rqst_fetch" => "ਬੇਨਤੀ ਸਫਲਤਾਪੂਰਵਕ ਪ੍ਰਾਪਤ ਹੋਈ.",
+        "rqst_acpt" => "ਬੇਨਤੀ ਸਫਲਤਾਪੂਰਵਕ ਸਵੀਕਾਰ ਕਰ ਲਈ ਗਈ.",
+        "rqst_reject" => "ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ.",
+        "data_dlt" => "ਡਾਟਾ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ.",
+        "latlong_update" => "ਲੰਬਕਾਰ ਲੰਬਾਈ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤੀ ਗਈ.",
+        "insufficient_credits" => "No more credits available for sending request",
+        "credits_added_100" => "10 credits added successfully",
+        "product_verification_failed" => "Product verification failed",
+    ]
+?>

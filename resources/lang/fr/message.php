@@ -1,0 +1,25 @@
+<?php
+    return [
+        "invalid_credential"    =>  "Informations d'identification non valides. Veuillez réessayer.",
+        "update_availability"    =>  "disponibilité mise à jour avec succès.",
+        "update_availability_failed"    =>  "disponibilité non mise à jour, veuillez réessayer.",
+        "lang_update" => "langue mise à jour avec succès.",
+        "lang_update_failed" => "langue non mise à jour, veuillez réessayer.",
+        "no_data_found" => "Aucune donnée disponible.",
+        "image_upload"  => "image téléchargée avec succès.",
+        "image_upload_failed"  => "échec du téléchargement de l'image.",
+        "profile_update" => "Mise à jour du profil réussie.",
+        "error" => "Une erreur s'est produite. Veuillez réessayer.",
+        "profile_fetch" => "les données de profil ont été récupérées avec succès.",
+        "already_sent" => "envoyer déjà la demande à l'utilisateur.",
+        "rqst_send" => "demande envoyée avec succès.",
+        "rqst_fetch" => "demande récupérée avec succès.",
+        "rqst_acpt" => "demande acceptée avec succès.",
+        "rqst_reject" => "demande rejetée.",
+        "data_dlt" => "les données ont bien été supprimées.",
+        "latlong_update" => "latlong mis à jour avec succès.",
+        "insufficient_credits" => "No more credits available for sending request",
+        "credits_added_100" => "10 credits added successfully",
+        "product_verification_failed" => "Product verification failed",
+    ]
+?>

@@ -1,0 +1,25 @@
+<?php
+    return [
+        "invalid_credential"    =>  "অবৈধ শংসাপত্র। দয়া করে আবার চেষ্টা করুন।",
+        "update_availability"    =>  "প্রাপ্যতা সফলভাবে আপডেট হয়েছে।",
+        "update_availability_failed"    =>  "প্রাপ্যতা আপডেট হয়নি। দয়া করে আবার চেষ্টা করুন।",
+        "lang_update" => "ভাষা সফলভাবে আপডেট হয়েছে।",
+        "lang_update_failed" => "ভাষা আপডেট হয়নি। দয়া করে আবার চেষ্টা করুন।",
+        "no_data_found" => "কোন তথ্য পাওয়া যায় নি।",
+        "image_upload"  => "চিত্র সফলভাবে আপলোড হয়েছে।",
+        "image_upload_failed"  => "চিত্র আপলোড ব্যর্থ।",
+        "profile_update" => "প্রোফাইল সফলভাবে আপডেট করা হয়েছে.",
+        "error" => "কিছু ভুল হয়েছে আবার চেষ্টা করুন.",
+        "profile_fetch" => "প্রোফাইল ডেটা সফলভাবে প্রাপ্ত হয়েছে।",
+        "already_sent" => "ইতিমধ্যে ব্যবহারকারীর কাছে অনুরোধটি প্রেরণ করুন।",
+        "rqst_send" => "অনুরোধ সফলভাবে প্রেরণ।",
+        "rqst_fetch" => "অনুরোধ সফলভাবে প্রাপ্ত হয়েছে।",
+        "rqst_acpt" => "অনুরোধ সফলভাবে গৃহীত হয়েছে।",
+        "rqst_reject" => "অনুরোধ বাতিল হয়েছে।",
+        "data_dlt" => "ডেটা সফলভাবে মোছা হয়েছে।",
+        "latlong_update" => "ল্যাটলং সফলভাবে আপডেট হয়েছে.",
+        "insufficient_credits" => "No more credits available for sending request",
+        "product_verification_failed" => "Product verification failed",
+        "credits_added_100" => "10 credits added successfully",
+    ]
+?>

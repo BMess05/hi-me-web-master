@@ -1,0 +1,25 @@
+<?php
+    return [
+        "invalid_credential"    =>  "認証情報が無効です。もう一度お試しください。",
+        "update_availability"    =>  "可用性が正常に更新されました。",
+        "update_availability_failed"    =>  "在庫状況が更新されていません。もう一度お試しください。",
+        "lang_update" => "言語が正常に更新されました。",
+        "lang_update_failed" => "言語が更新されていません。もう一度やり直してください。",
+        "no_data_found" => "何もデータが見つかりませんでした。",
+        "image_upload"  => "画像が正常にアップロードされました。",
+        "image_upload_failed"  => "画像のアップロードに失敗しました。",
+        "profile_update" => "プロファイルが正常に更新されました。",
+        "error" => "何かが間違っていました。もう一度やり直してください。",
+        "profile_fetch" => "プロファイルデータが正常にフェッチされました。",
+        "already_sent" => "すでにユーザーにリクエストを送信しています。",
+        "rqst_send" => "リクエストは正常に送信されました。",
+        "rqst_fetch" => "リクエストが正常にフェッチされました。",
+        "rqst_acpt" => "リクエストは正常に受け入れられました。",
+        "rqst_reject" => "リクエストは拒否されました。",
+        "data_dlt" => "データは正常に削除されました。",
+        "latlong_update" => "緯度経度が正常に更新されました.",
+        "insufficient_credits" => "No more credits available for sending request",
+        "credits_added_100" => "10 credits added successfully",
+        "product_verification_failed" => "Product verification failed",
+    ]
+?>

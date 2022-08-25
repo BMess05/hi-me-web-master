@@ -1,0 +1,25 @@
+<?php
+    return [
+        "invalid_credential"    =>  "अमान्य विवरण। कृपया पुन: प्रयास करें।",
+        "update_availability"    =>  "उपलब्धता सफलतापूर्वक अपडेट की गई।",
+        "update_availability_failed"    =>  "उपलब्धता अपडेट नहीं हुई। कृपया फिर से प्रयास करें।",
+        "lang_update" => "भाषा सफलतापूर्वक अपडेट की गई।",
+        "lang_update_failed" => "भाषा अपडेट नहीं की गई। कृपया फिर से प्रयास करें।",
+        "no_data_found" => "कोई विवरण नहीं मिला।",
+        "image_upload"  => "चित्र सफलतापूर्वक अपलोड किया गया।",
+        "image_upload_failed"  => "छवि अपलोड विफल रहा।",
+        "profile_update" => "प्रोफाइल को सफलतापूर्वक अपडेट किया गया।",
+        "error" => "कुछ गलत हो गया। कृपया पुन: प्रयास करें।",
+        "profile_fetch" => "प्रोफ़ाइल विवरण सफलतापूर्वक प्राप्त हुआ।",
+        "already_sent" => "पहले से ही उपयोगकर्ता के लिए अनुरोध भेजा है।",
+        "rqst_send" => "अनुरोध सफलतापूर्वक उपयोगकर्ता को भेजा गया।",
+        "rqst_fetch" => "अनुरोध सफलतापूर्वक प्राप्त हुआ।",
+        "rqst_acpt" => "अनुरोध सफलतापूर्वक स्वीकार किया गया।",
+        "rqst_reject" => "अनुरोध अस्वीकार कर दिया गया।",
+        "data_dlt" => "विवरण सफलतापूर्वक हटा दिया गया।",
+        "latlong_update" => "अक्षांश देशांतर सफलतापूर्वक अपडेट किया गया.",
+        "insufficient_credits" => "No more credits available for sending request",
+        "credits_added_100" => "10 credits added successfully",
+        "product_verification_failed" => "Product verification failed",
+    ]
+?>
